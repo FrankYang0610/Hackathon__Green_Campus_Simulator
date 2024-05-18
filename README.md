@@ -2,10 +2,11 @@
 The Hackathon project by **Ren Yixiao and Yang Xikun**. 
 A strategy game aims to reduce carbon emissions in PolyU. 
 
+### Our video: https://youtu.be/CYmU48-tA4k
+
+
 ## Game Settings
 You lead the Campus Environment Management Department at the Hong Kong Polytechnic University (PolyU) with a three-year goal to reduce the school’s carbon emissions as much as possible. 
-
-### Our video: https://youtu.be/CYmU48-tA4k
 
 Each month, you receive budgets to apply different environmental protection actions on campus.
 
