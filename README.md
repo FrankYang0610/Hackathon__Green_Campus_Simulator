@@ -7,7 +7,7 @@ You lead the Campus Environment Management Department at the Hong Kong Polytechn
 
 Each month, you receive budgets to apply different environmental protection actions on campus.
 
-**_Various environmental actions differ in cost and effectiveness in reducing carbon emissions. You must choose the right actions at the best times to maximize savings and minimize emissions._**
+**Various environmental actions differ in cost and effectiveness in reducing carbon emissions. You must choose the right actions at the best times to maximize savings and minimize emissions.**
 
 
 ## Game Rationality
