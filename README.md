@@ -13,6 +13,9 @@ Each month, you receive budgets to apply different environmental protection acti
 **Various environmental measures ('actions') differ in cost and effectiveness in reducing carbon emissions. You must choose the right actions at the best times to maximize savings and minimize emissions.**
 
 
+## How To Play The Game
+
+
 ## Game Rationality
 **Our game is supported by scientific evidence, and is educationally meaningful.** 
 
