@@ -14,6 +14,7 @@ Each month, you receive budgets to apply different environmental protection acti
 
 
 ## How To Play The Game
+![Here should be a photo showing how to play the game.](https://raw.githubusercontent.com/FrankYang0610/Hackathon__Green_Campus_Simulator/main/How-To-Play.png "How_To_Play")
 
 
 ## Game Rationality
