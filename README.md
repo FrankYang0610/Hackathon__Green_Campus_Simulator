@@ -2,7 +2,9 @@
 The Hackathon project by **Ren Yixiao and Yang Xikun**. 
 A strategy game aims to reduce carbon emissions in PolyU. 
 
-### Our video: https://youtu.be/CYmU48-tA4k
+### Our project outline: https://github.com/FrankYang0610/Hackathon__Green_Campus_Simulator/blob/main/Hackathon%20Project%20Outline%20-%20Ren%20Yixiao%20%26%20Yang%20Xikun.pdf
+### Our project prospect: https://github.com/FrankYang0610/Hackathon__Green_Campus_Simulator/blob/main/Project%20Prospects.pdf
+### Our game introduction video: https://youtu.be/CYmU48-tA4k
 
 
 ## Game Settings
