@@ -17,9 +17,7 @@ Each month, you receive budgets to apply different environmental protection acti
 2. **We review the research papers** to provide academic background for 'actions' in our game, which span multiple disciplines including computer science, civil engineering, and material science. **Our game is not only accurate but also educational. It helps players understand the effects and cost-effectiveness of different environmental measures.**
 
 
-## Leaderboard System & PolyU GreenCoin System
+## Leaderboard System, PolyU GreenCoin System, and Our Purposes
 **We plan to integrate this game with the GreenCoin system**, updating leaderboards regularly to spark competition and reward high achievers with GreenCoin points. GreenCoin points will also serve as entry tickets for our game. **We attempt to activate the GreenCoin system and achieve its expected goals.** 
 
-
-## Main Game Purposes
-1. 
+Of course, our game also aims to enhance students' knowledge and awareness of environmental protection and carbon reduction. **Neither the game itself nor its integration with the GreenCoin system is the most important. We aim to use the game as a medium to promote the GreenCoin system, thereby contributing to create a truly green campus.** 
