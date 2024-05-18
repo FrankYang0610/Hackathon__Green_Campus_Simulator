@@ -7,12 +7,10 @@ You lead the Campus Environment Management Department at the Hong Kong Polytechn
 
 Each month, you receive budgets to apply different environmental protection actions on campus.
 
-**Various environmental actions differ in cost and effectiveness in reducing carbon emissions. You must choose the right actions at the best times to maximize savings and minimize emissions.**
+**Various environmental measures ('actions') differ in cost and effectiveness in reducing carbon emissions. You must choose the right actions at the best times to maximize savings and minimize emissions.**
 
 
 ## Game Rationality
-The effectiveness of various environmental protection actions is supported by scientific evidence. 
-1. **The dataset from PolyU**, which includes electricity consumption data from the CEE Department, along with supplementary data on the number of rooms, total air conditioners, and total electronic devices supplied by the university's Property Management Department, enables a comprehensive analysis of carbon emissions attributable to electricity use. These allow us to estimate carbon emission distribution within the campus precisely.
-2. **Research papers are reviewed** to understand various environmental measures, which span multiple disciplines including computer science, civil engineering, and material science. These measures are not only accurate but also educational.
-
-   
+**Our game is supported by scientific evidence, and is educationally meaningful.** 
+1. **We use the dataset from PolyU**, which includes electricity consumption data from the CEE Department, along with supplementary data on the number of rooms, total air conditioners, and total electronic devices supplied by the university's Property Management Department. **We make a comprehensive analysis of carbon emissions attributable to electricity use on our campus.** 
+2. **We review the research papers** to provide academic background for 'actions' in our game, which span multiple disciplines including computer science, civil engineering, and material science. **Our game is not only accurate but also educational. It helps players understand the effects and cost-effectiveness of different environmental measures.**
